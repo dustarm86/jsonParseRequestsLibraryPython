@@ -1,7 +1,6 @@
-import requests
 import json
 
-# JSON data example to parse
+# JSON data example to parse using multi-line string
 clothingJsonExample = '''
 [
     {
